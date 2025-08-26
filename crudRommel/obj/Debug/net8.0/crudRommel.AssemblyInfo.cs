@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("crudRommel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9db862726930cdbd4cc7cde3839b9cc0e1027c77")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5853da71412829ce07b54b1c9d1be6628e062b5")]
 [assembly: System.Reflection.AssemblyProductAttribute("crudRommel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("crudRommel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
