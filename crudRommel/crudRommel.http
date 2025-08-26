@@ -1,0 +1,6 @@
+@crudRommel_HostAddress = http://localhost:5279
+
+GET {{crudRommel_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
